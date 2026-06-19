@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Himanshu Bisht (@hbishtn)
-<img src="ChatGPT Image Jun 19, 2026, 12_49_21 AM.png" width="100%">
+<img src="ChatGPT Image Jun 19, 2026, 12_49_21 AM.png" width="200">
 * 👀 Interested in Full Stack Web Development
 * 🌱 Currently learning Data Science & Cloud Computing
 * 💞️ Python & Django Developer | Django REST Framework (DRF)
