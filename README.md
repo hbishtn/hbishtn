@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsh Bisht (@hbishtn)
+# 👋 Hi, I'm Himanshu Bisht (@hbishtn)
 
 * 👀 Interested in Full Stack Web Development
 * 🌱 Currently learning Data Science & Cloud Computing
